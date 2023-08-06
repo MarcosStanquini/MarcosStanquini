@@ -3,21 +3,20 @@ public class Marcos {
   private String name = 'Marcos Stanquini';
   private Location location = new Location("Brazil", "SP");
   private int age = 18;
-  private String[] langs = ['Java','Javascript'];
 ```
 
 
-<div style="display: flex; flex-direction: row; flex: 1" align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosStanquini&layout=compact&theme=dracula&langs_count=8" width="280em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosStanquini&show_icons=true&theme=dracula"  width="425em"/>
+  <div style="display: flex; flex-direction: row; flex: 1" align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosStanquini&layout=compact&theme=dracula&langs_count=8" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosStanquini&show_icons=true&theme=dracula"  height="150em"/>
 </div>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Marcos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-<img align="center" alt="Marcos-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2175/2175240.png">
+<img align="center" alt="Marcos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="Marcos-JSP" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2175/2175240.png">
 
 
 
