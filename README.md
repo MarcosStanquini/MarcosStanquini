@@ -1,16 +1,18 @@
-### Hi there 👋
+```java
+public class Marcos {
+  private String name = 'Marcos Stanquini';
+  private Location location = new Location("Brazil", "SP");
+  private int age = 18;
+  private String[] langs = ['Java','Javascript'];
+```
 
-<!--
-**MarcosStanquini/MarcosStanquini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div style="display: flex; flex-direction: row; flex: 1" align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosStanquini&layout=compact&theme=dracula&langs_count=8" width="280em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosStanquini&show_icons=true&theme=dracula"  width="425em"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://www.instagram.com/stanquini_marcos/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/marcos-stanquini-aa81b2222/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<div>
