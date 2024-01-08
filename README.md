@@ -1,8 +1,9 @@
-```java
-public class Marcos {
-  private String name = 'Marcos Stanquini';
-  private Location location = new Location("Brazil", "SP");
-  private int age = 18;
+```python
+class Marcos:
+    def __init__(self) -> None:
+        self.name: str = 'Marcos Stanquini'
+        self.location: str = 'Brazil'
+        self.age: int = 18
 ```
 
 
