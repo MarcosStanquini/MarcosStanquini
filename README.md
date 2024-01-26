@@ -8,8 +8,8 @@ class Marcos:
 
 
   <div style="display: flex; flex-direction: row; flex: 1" align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosStanquini&layout=compact&theme=dracula&langs_count=8" height="200em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosStanquini&show_icons=true&theme=dracula"  height="200em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosStanquini&layout=compact&theme=dracula&langs_count=8" height="250em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosStanquini&show_icons=true&theme=dracula"  height="250em"/>
 </div>
 
 <div style="display: inline_block"><br>
