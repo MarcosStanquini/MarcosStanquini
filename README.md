@@ -6,6 +6,17 @@ class Marcos:
         self.age: int = 18
 ```
 
+<div>
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosStanquini&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosStanquini&theme=github_dark)
+| :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcosStanquini&theme=github_dark&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosStanquini&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcosStanquini&theme=github_dark)
+| :-: | :-: | :-: |
+  
+</div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
   
 <div style="display: inline_block"><br>
