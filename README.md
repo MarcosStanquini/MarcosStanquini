@@ -8,18 +8,6 @@ class Marcos:
 
 
   
-<div>
-
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosStanquini&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosStanquini&theme=github_dark)
-| :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcosStanquini&theme=github_dark&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosStanquini&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcosStanquini&theme=github_dark)
-| :-: | :-: | :-: |
-  
-</div>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 <div style="display: inline_block"><br>
 <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
