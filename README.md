@@ -3,7 +3,7 @@ class Marcos:
     def __init__(self) -> None:
         self.name: str = 'Marcos Stanquini'
         self.location: str = 'Brazil'
-        self.age: int = 18
+        self.age: int = 20
 ```
 
 <div>
