@@ -1,4 +1,4 @@
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+Olá eu sou Marcos 👋" alt="gifName" /> 
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+eu sou Marcos 👋" alt="gifName"/> 
 
 <div>
 
