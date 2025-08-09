@@ -7,13 +7,12 @@
 
 ---
 
-## ✨ Sobre Mim
-Sou **Marcos Stanquini**, estudante de **Engenharia de Software** apaixonado por tecnologia e inovação.  
-Atualmente focado em **desenvolvimento back-end** e **análise de dados**, sempre buscando criar soluções escaláveis e eficientes.  
-
+## 👾 Sobre Mim
+Sou **Marcos Stanquini**, estudante de **Engenharia de Software** no Instituto Federal de São Paulo - IFSP;
+ 
 💡 **Interesses**:
-- Arquitetura de sistemas e APIs robustas
-- Otimização de banco de dados e consultas
+- Arquitetura de sistemas;
+- Otimização e Perfomance de APIs
 - Automação e processamento de dados
 - Cloud e deploy de aplicações
 
@@ -24,54 +23,39 @@ Atualmente focado em **desenvolvimento back-end** e **análise de dados**, sempr
 ## 💬 Minhas Habilidades
 
 <details>
-  <summary>🚀 Tecnologias</summary>
-  
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+ <details>
+  <summary>👨‍💻 Back-end</summary>
 
-</details>
+- **Linguagens:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-<details>
-  <summary>🗄️ Banco de Dados</summary>
-  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- **Frameworks & Ferramentas:**  
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) 
+  ![Fastify](https://img.shields.io/badge/Fastify-20232A?style=flat&logo=fastify&logoColor=white) 
+  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-</details>
-
-<details>
-  <summary>🎨 Design</summary>
-  
-![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![AdobeIllustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+- **Banco de Dados:**  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 </details>
 
 <details>
   <summary>⚙️ Versionamento</summary>
-  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+  ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
+  ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
 </details>
 
 <details>
-  <summary>☁️ Deploy</summary>
-  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+  <summary>🐳 DevOps</summary>
+
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 </details>
 
