@@ -5,11 +5,11 @@
   </a>
 </div>
 
----
-
 ## 👾 Sobre Mim
-Sou **Marcos Stanquini**, estudante de **Engenharia de Software** no Instituto Federal de São Paulo - IFSP;
- 
+
+Sou **Marcos Stanquini**, estudante de **Engenharia de Software** no Instituto Federal de São Paulo - IFSP;  
+
+
 💡 **Interesses**:
 - Arquitetura de sistemas;
 - Otimização e Perfomance de APIs
@@ -18,12 +18,10 @@ Sou **Marcos Stanquini**, estudante de **Engenharia de Software** no Instituto F
 
 🎯 **Objetivo**: contribuir para projetos desafiadores que gerem impacto real.
 
----
 
 ## 💬 Minhas Habilidades
 
 <details>
- <details>
   <summary>👨‍💻 Back-end</summary>
 
 - **Linguagens:**  
@@ -44,6 +42,22 @@ Sou **Marcos Stanquini**, estudante de **Engenharia de Software** no Instituto F
 </details>
 
 <details>
+  <summary>🌐 Front-end</summary>
+
+- **Linguagens de marcação e estilo:**  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+- **Linguagens:**  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+- **Frameworks e bibliotecas:**  
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+
+</details>
+
+<details>
   <summary>⚙️ Versionamento</summary>
 
   ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) 
@@ -53,13 +67,12 @@ Sou **Marcos Stanquini**, estudante de **Engenharia de Software** no Instituto F
 </details>
 
 <details>
-  <summary>🐳 DevOps</summary>
+  <summary>🔧 DevTools</summary>
 
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
 
 </details>
-
----
 
 ## 📊 GitHub Stats
 
@@ -71,14 +84,11 @@ Sou **Marcos Stanquini**, estudante de **Engenharia de Software** no Instituto F
 
 </div>
 
----
+## 📫 Contato
 
-
----
-
-## 🌐 Contato
 <div align="center">
-  <a href="https://www.instagram.com/stanquinii/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/marcos-stanquini-aa81b2222/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:marcossnarquini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/MarcosStanquini)](https://www.linkedin.com/in/MarcosStanquini) 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:seu-email@gmail.com)](mailto:seu-email@gmail.com)
+
 </div>
