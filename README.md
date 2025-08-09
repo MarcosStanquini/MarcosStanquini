@@ -14,10 +14,10 @@
 
 ## 💡 Interesses
 
-- Arquitetura de sistemas
-- Otimização e performance de APIs
-- Automação e processamento de dados
-- Cloud e deploy de aplicações
+- Arquitetura de sistemas.
+- Otimização e performance de APIs.
+- Automação e processamento de dados.
+- Cloud e deploy de aplicações.
   
 ## 💬 Minhas Habilidades
 
