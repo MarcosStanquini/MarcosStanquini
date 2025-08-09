@@ -6,18 +6,16 @@
 </div>
 
 ## 👾 Sobre Mim
-
-Sou **Marcos Stanquini**, estudante de **Engenharia de Software** no Instituto Federal de São Paulo - IFSP;  
-
+* Marcos Stanquini, 20y.
+* Graduando em Engenharia de Software - IFSP.
+* Moro em São Carlos - SP.
+* Apaixonado por tecnologias inovadoras e pelas conexões humanas que elas possibilitam.
 
 💡 **Interesses**:
-- Arquitetura de sistemas;
+- Arquitetura de sistemas
 - Otimização e Perfomance de APIs
 - Automação e processamento de dados
 - Cloud e deploy de aplicações
-
-🎯 **Objetivo**: contribuir para projetos desafiadores que gerem impacto real.
-
 
 ## 💬 Minhas Habilidades
 
@@ -76,7 +74,7 @@ Sou **Marcos Stanquini**, estudante de **Engenharia de Software** no Instituto F
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosStanquini&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosStanquini&theme=github_dark) |
 | :-: | :-: |
@@ -86,7 +84,7 @@ Sou **Marcos Stanquini**, estudante de **Engenharia de Software** no Instituto F
 
 ## 📫 Contato
 
-<div align="center">
+<div align="start">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/MarcosStanquini)](https://www.linkedin.com/in/MarcosStanquini) 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:seu-email@gmail.com)](mailto:seu-email@gmail.com)
