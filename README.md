@@ -6,17 +6,19 @@
 </div>
 
 ## 👾 Sobre Mim
-* Marcos Stanquini, 20y.
-* Graduando em Engenharia de Software - IFSP.
-* Moro em São Carlos - SP.
-* Apaixonado por tecnologias inovadoras e pelas conexões humanas que elas possibilitam.
 
-💡 **Interesses**:
+- Marcos Stanquini, 20 anos.
+- Graduando em Engenharia de Software - IFSP.
+- Moro em São Carlos - SP.
+- Apaixonado por tecnologias inovadoras e pelas conexões humanas que elas possibilitam.
+
+## 💡 Interesses
+
 - Arquitetura de sistemas
-- Otimização e Perfomance de APIs
+- Otimização e performance de APIs
 - Automação e processamento de dados
 - Cloud e deploy de aplicações
-
+  
 ## 💬 Minhas Habilidades
 
 <details>
