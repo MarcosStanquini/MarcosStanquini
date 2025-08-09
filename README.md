@@ -88,7 +88,8 @@
 
 <div align="start">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/MarcosStanquini)]([https://www.linkedin.com/in/MarcosStanquini](https://www.linkedin.com/in/marcos-stanquini/)) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-stanquini/)
+
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:marcossnarquini@gmail.com)](mailto:marcossnarquini@gmail.com)
 
 </div>
