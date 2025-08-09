@@ -7,7 +7,7 @@
 
 ## 👾 Sobre Mim
 
-- Marcos Stanquini, 20 anos.
+- Marcos Stanquini, 20y.
 - Graduando em Engenharia de Software - IFSP.
 - Moro em São Carlos - SP.
 - Apaixonado por tecnologias inovadoras e pelas conexões humanas que elas possibilitam.
