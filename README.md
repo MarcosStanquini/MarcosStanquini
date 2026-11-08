@@ -44,19 +44,40 @@ Gosto de transformar dados em decisões e de construir sistemas que conectam pes
 
 </div>
 
-## 🚀 Projeto em Destaque
+## 🚀 Projetos em Destaque
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="50%" valign="top">
+
+### 🤖 [PPChat](https://github.com/MarcosStanquini/ppchat-api)
+
+Assistente com IA que responde perguntas sobre o **Projeto Pedagógico do curso de Engenharia de Software do IFSP**: disciplinas, pré-requisitos, estágio, TCC e regras do curso.
+
+- 🧠 Claude com o PPC inteiro no contexto + **prompt caching**
+- 🕸️ Grafo de pré-requisitos e índice de complexidade
+- 💬 Chat com streaming, citações de página e fluxograma
+- 🎓 Integração com o SUAP para montar o percurso do aluno
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+
+<a href="https://ppchat-bezu.onrender.com/"><img src="https://img.shields.io/badge/🚀_Ver_ao_vivo-00E7FF?style=for-the-badge&logoColor=black"/></a> <a href="https://github.com/MarcosStanquini/ppchat-api"><img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎯 [GoalSpace API](https://github.com/MarcosStanquini/goalspace-api)
 
-Sistema de gerenciamento de metas pessoais com **notificações automatizadas via WhatsApp**.
+API de gerenciamento de metas pessoais com **notificações automatizadas via WhatsApp** para lembrar e motivar o usuário.
 
-✅ Autenticação JWT com roles &nbsp;•&nbsp; ✅ CRUD de metas e subtarefas &nbsp;•&nbsp; ✅ Relatórios em PDF &nbsp;•&nbsp; ✅ Swagger
+- 🔐 Autenticação JWT com roles (admin/user)
+- ✅ CRUD de metas e subtarefas, com busca e filtros
+- 📱 Lembretes automáticos pelo WhatsApp
+- 📄 Relatórios em PDF e documentação Swagger
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+<a href="https://github.com/MarcosStanquini/goalspace-api"><img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
