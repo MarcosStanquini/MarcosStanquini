@@ -17,10 +17,6 @@
 
 ## 👨‍💻 Sobre Mim
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 Sou **Software Engineer** em São Carlos - SP e graduando em **Engenharia de Software no IFSP**.
 Gosto de transformar dados em decisões e de construir sistemas que conectam pessoas e tecnologia.
 
@@ -28,24 +24,6 @@ Gosto de transformar dados em decisões e de construir sistemas que conectam pes
 - 🤖 **IA aplicada:** LLMs, RAG, NLQ, Agentic AI e MCP
 - ☁️ **Cloud:** AWS (Bedrock, S3, EC2, CloudWatch, Redshift) e Docker
 - 📊 **BI:** dashboards e análises com Power BI e Excel
-
-</td>
-<td width="45%" valign="top">
-
-```python
-class Marcos:
-    role     = "Software Engineer"
-    location = "São Carlos - SP 🇧🇷"
-    study    = "Eng. de Software @ IFSP"
-    focus    = ["Data Engineering",
-                "Generative AI & Agents",
-                "Cloud (AWS)"]
-    motto    = "Code, Learn, Repeat 🔄"
-```
-
-</td>
-</tr>
-</table>
 
 ## 🧰 Tech Stack
 
@@ -96,7 +74,7 @@ Sistema de gerenciamento de metas pessoais com **notificações automatizadas vi
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MarcosStanquini&bg_color=0D1117&color=00E7FF&line=0E4C5A&point=FFFFFF&area=true&hide_border=true" alt="Activity graph"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosStanquini&theme=tokyonight" alt="Contribuições"/>
 </p>
 
 <p align="center">
