@@ -25,25 +25,6 @@ Gosto de transformar dados em decisões e de construir sistemas que conectam pes
 - ☁️ **Cloud:** AWS (Bedrock, S3, EC2, CloudWatch, Redshift) e Docker
 - 📊 **BI:** dashboards e análises com Power BI e Excel
 
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,java,react,nodejs,postgres,aws,docker,git,github&perline=10&theme=dark" alt="Tech icons"/>
-</p>
-
-<div align="center">
-
-| | |
-| :-: | :-- |
-| 💻 **Linguagens & Frameworks** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/VBA-867DB1?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white"/> |
-| 🛠️ **Data Engineering** | <img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data_Modeling-5C2D91?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data_Quality-2E7D32?style=for-the-badge"/> <img src="https://img.shields.io/badge/EDA-0277BD?style=for-the-badge"/> |
-| 🗄️ **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white"/> |
-| ☁️ **Cloud & Infra** | <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge"/> <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/> <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> |
-| 🤖 **AI** | <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLQ-00897B?style=for-the-badge"/> <img src="https://img.shields.io/badge/Agentic_AI-D97757?style=for-the-badge"/> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Prompt_Engineering-1565C0?style=for-the-badge"/> |
-| 📊 **BI & Visualization** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge"/> |
-
-</div>
-
 ## 🚀 Projetos em Destaque
 
 <table width="100%">
@@ -61,7 +42,7 @@ Assistente com IA que responde perguntas sobre o **Projeto Pedagógico do curso 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
 
-<a href="https://ppchat-bezu.onrender.com/"><img src="https://img.shields.io/badge/🚀_Ver_ao_vivo-00E7FF?style=for-the-badge&logoColor=black"/></a> <a href="https://github.com/MarcosStanquini/ppchat-api"><img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://ppchat-bezu.onrender.com/"><img src="https://img.shields.io/badge/Ver_ao_vivo-0E4C5A?style=for-the-badge&logo=render&logoColor=white"/></a> <a href="https://github.com/MarcosStanquini/ppchat-api"><img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
